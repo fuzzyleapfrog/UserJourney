@@ -9,3 +9,6 @@ Entstanden ist das Spiel für die Lehre in bibliothekswissenschaftlichen Studien
 Viel Spaß!
 
 https://fuzzyleapfrog.github.io/UserJourney/
+
+Erstellt mit Twine.
+https://twinery.org/
