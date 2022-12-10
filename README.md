@@ -13,4 +13,4 @@ Viel Spaß!
 Erstellt mit Twine.
 https://twinery.org/
 
-Wer das Spiel anpassen möchte, lädt sich die HTML-Datei runter und import sie in Twine. Los kann es gehen mit dem Anpassen.
+Wer das Spiel anpassen möchte, lädt sich die HTML-Datei runter und importiert sie in Twine. Los kann es gehen mit dem Anpassen.
