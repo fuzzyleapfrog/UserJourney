@@ -14,3 +14,5 @@ Erstellt mit Twine.
 https://twinery.org/
 
 Wer das Spiel anpassen möchte, lädt sich die HTML-Datei runter und importiert sie in Twine. Los kann es gehen mit dem Anpassen.
+
+DOI for all versions (releases): https://doi.org/10.5281/zenodo.7679330
